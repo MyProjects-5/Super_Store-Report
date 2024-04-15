@@ -7,7 +7,7 @@ Thrilled to share a dynamic visualization showcasing sales and YOY growth KPIs, 
 # Key Features:-
 Sales and Profit KPIs at a glance.     
 Drill down into categories for detailed analysis.      
-top-selling-products and segment-wise performance breakdown.      
+Top-selling-products and segment-wise performance breakdown.      
 Monthly insights for each year.      
 
 # Conclusion:-
