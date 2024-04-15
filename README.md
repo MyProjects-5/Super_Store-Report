@@ -1,5 +1,5 @@
-# Amazon Sales Dashboard
-I am excited to share my tableau project on Amazon Sales Dashboard.
+# Superstore Sales Dashboard
+I am excited to share my tableau project on Superstore Sales Dashboard.
 
 # Objective:-
 Thrilled to share a dynamic visualization showcasing sales and YOY growth KPIs, breaking down insights category-wise, segment-wise, top-selling-products, and diving into the nitty-gritty month-wise for each year.
