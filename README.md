@@ -2,7 +2,7 @@
 I am excited to share my tableau project on Amazon Sales Dashboard.
 
 # Objective:-
-Thrilled to share a dynamic visualization showcasing sales and profit KPIs, breaking down insights category-wise, segment-wise, top-selling-products, and diving into the nitty-gritty month-wise for each year.
+Thrilled to share a dynamic visualization showcasing sales and YOY growth KPIs, breaking down insights category-wise, segment-wise, top-selling-products, and diving into the nitty-gritty month-wise for each year.
 
 # Key Features:-
 Sales and Profit KPIs at a glance.
