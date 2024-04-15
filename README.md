@@ -5,10 +5,10 @@ I am excited to share my tableau project on Amazon Sales Dashboard.
 Thrilled to share a dynamic visualization showcasing sales and YOY growth KPIs, breaking down insights category-wise, segment-wise, top-selling-products, and diving into the nitty-gritty month-wise for each year.
 
 # Key Features:-
-Sales and Profit KPIs at a glance.
-Drill down into categories for detailed analysis.
-top-selling-products and segment-wise performance breakdown.
-Monthly insights for each year.
+Sales and Profit KPIs at a glance.     
+Drill down into categories for detailed analysis.      
+top-selling-products and segment-wise performance breakdown.      
+Monthly insights for each year.      
 
 # Conclusion:-
 The analysis of the thesis indicates that it is possible to convert raw data into meaningful information based on the analysis of the case study. From the analysis we got the information like year-on-year growth in the sales of the store and we are happy that it is actually increasing from year-to-year and In techological field the sales are more.
