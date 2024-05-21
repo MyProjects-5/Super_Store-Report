@@ -20,6 +20,6 @@ https://public.tableau.com/views/TableauAssignment_17116937911080/Dashboard1?:la
 ## DashBoard Vedio :-
 https://github.com/MyProjects-5/Super_Store-Report/assets/140932670/7404aaa6-9f90-4d8b-a953-fd7c49781e66
 
-## Output :-
+## Screenshot of the Analysis :-
 ![Screenshot 2024-04-15 123710](https://github.com/MyProjects-5/Superstore_Report/assets/140932670/b5d2e4fe-f712-4069-baec-c0085be2be7f)
 ![Screenshot 2024-04-15 123626](https://github.com/MyProjects-5/Superstore_Report/assets/140932670/aaecaf04-d2a2-4de6-be91-c674036a5d2d)
