@@ -1,4 +1,4 @@
-# Superstore Sales Repor
+# Superstore Sales Report
 I am excited to share my tableau project on Superstore Sales Dashboard.
 
 ## Objective :-
